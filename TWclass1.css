@@ -1,0 +1,38 @@
+body header{
+  overflow:hidden;
+  width:900px;
+  margin-left:174px;
+  margin-top:50px;
+}
+body header .header-right h3.deeppink{
+  color:deeppink;
+}
+
+body header .header-left{
+  float:left;
+}
+
+body header .header-left img{
+  width:300px;
+  border:1px solid black;
+}
+
+body header .header-right{
+  width:498px;
+  float:left;
+  margin-left:74px;
+  margin-top:17px;
+}
+
+body header .header-right form button{
+  background-color:aquamarine;
+  width:200px;
+  height:50px;
+  font-size:20px;
+  border:transparent;
+  cursor:pointer;
+}
+
+body header .header-right form button:hover{
+  background-color:blanchedalmond;
+}
