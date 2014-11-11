@@ -1,0 +1,44 @@
+body header .header{
+  overflow:hidden;
+  background-color:lightgray;
+  margin-left:0px;
+}
+
+body header .header h3{
+  display:inline-block;
+  margin-top:0px;
+  margin-bottom:0px;
+  decoration:blue;
+  font-family:SimHei;
+}
+
+body header div #login{
+  margin-left:100px;
+}
+body header div #login a{
+    text-decoration:underline;
+    color:blue;
+}
+body header div #sign-up a{
+    text-decoration:underline;
+    color:blue;
+}
+
+body header div #shoppinglist{
+  margin-left:793px;
+}
+
+body .header-left{
+  height:400px;
+  width:150px;
+  background-color:lightgray;
+  margin-left:100px;
+}
+body .header-left p{
+  padding-top:50px;
+  padding-left:20px;
+  color:black;
+  font-family:SimHei;
+  font-weight:bold; 
+  font-size:1.2em;
+}
