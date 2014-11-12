@@ -30,15 +30,37 @@ body header div #shoppinglist{
 
 body .header-left{
   height:400px;
-  width:150px;
+  width:200px;
   background-color:lightgray;
   margin-left:100px;
+  float:left;
+  margin-top:20px;
 }
 body .header-left p{
   padding-top:50px;
   padding-left:20px;
   color:black;
   font-family:SimHei;
-  font-weight:bold; 
   font-size:1.2em;
+}
+
+body .header-center{
+  float:left;
+  margin-top:20px;
+}
+
+body .header-center img{
+  height:443px;
+  margin-left:40px;
+}
+body .header-right {
+  margin-top:78px;
+  float:right;
+}
+body .header-right p{
+  font-family:SimHei;
+  font-size:1.2em;
+  text-align:right;
+  margin-right:200px;
+
 }
