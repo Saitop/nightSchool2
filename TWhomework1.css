@@ -35,6 +35,7 @@ body .header-left{
   margin-left:100px;
   float:left;
   margin-top:20px;
+
 }
 body .header-left p{
   padding-top:50px;
@@ -67,6 +68,8 @@ body .header-right p{
 
 body table{
   border-collapse:collapse;
+  margin:auto;
+  margin-top:15px;
 }
 
 body .disk{
@@ -83,4 +86,36 @@ body table thead {
 
 body table tbody{
   text-align:center;
+}
+body table tbody td{
+  padding:10px;
+  font-family:SimHei;
+  margin:auto;
+}
+body table tbody img{
+  text-align:center;
+  margin:auto;
+  width:300px;
+}
+body footer {
+  margin-top:70px;
+  clear:both;
+  font-family:SimHei;
+  font-size:1.2em;
+  background-color:lightgray;
+  overflow:hidden;
+}
+body footer .contact{
+  margin-left:100px;
+  float:left;
+}
+body footer p{
+  font-weight:bold;
+}
+body footer img{
+  width:500px;
+}
+body footer .position{
+  margin-left:200px;
+  float:left;
 }
