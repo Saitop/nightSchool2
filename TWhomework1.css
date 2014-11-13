@@ -64,3 +64,23 @@ body .header-right p{
   margin-right:200px;
 
 }
+
+body table{
+  border-collapse:collapse;
+}
+
+body .disk{
+  clear:both;
+}
+
+body table thead {
+  colspan:3;
+  text-align:left;
+  border-bottom:2px solid black;
+  font-family:SimHei;
+  font-size:1.3em;
+}
+
+body table tbody{
+  text-align:center;
+}
