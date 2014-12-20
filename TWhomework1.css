@@ -1,0 +1,121 @@
+body header .header{
+  overflow:hidden;
+  background-color:lightgray;
+  margin-left:0px;
+}
+
+body header .header h3{
+  display:inline-block;
+  margin-top:0px;
+  margin-bottom:0px;
+  decoration:blue;
+  font-family:SimHei;
+}
+
+body header div #login{
+  margin-left:100px;
+}
+body header div #login a{
+    text-decoration:underline;
+    color:blue;
+}
+body header div #sign-up a{
+    text-decoration:underline;
+    color:blue;
+}
+
+body header div #shoppinglist{
+  margin-left:793px;
+}
+
+body .header-left{
+  height:400px;
+  width:200px;
+  background-color:lightgray;
+  margin-left:100px;
+  float:left;
+  margin-top:20px;
+
+}
+body .header-left p{
+  padding-top:50px;
+  padding-left:20px;
+  color:black;
+  font-family:SimHei;
+  font-size:1.2em;
+}
+
+body .header-center{
+  float:left;
+  margin-top:20px;
+}
+
+body .header-center img{
+  height:443px;
+  margin-left:40px;
+}
+body .header-right {
+  margin-top:78px;
+  float:right;
+}
+body .header-right p{
+  font-family:SimHei;
+  font-size:1.2em;
+  text-align:right;
+  margin-right:200px;
+
+}
+
+body table{
+  border-collapse:collapse;
+  margin:auto;
+  margin-top:15px;
+}
+
+body .disk{
+  clear:both;
+}
+
+body table thead {
+  colspan:3;
+  text-align:left;
+  border-bottom:2px solid black;
+  font-family:SimHei;
+  font-size:1.3em;
+}
+
+body table tbody{
+  text-align:center;
+}
+body table tbody td{
+  padding:10px;
+  font-family:SimHei;
+  margin:auto;
+}
+body table tbody img{
+  text-align:center;
+  margin:auto;
+  width:300px;
+}
+body footer {
+  margin-top:70px;
+  clear:both;
+  font-family:SimHei;
+  font-size:1.2em;
+  background-color:lightgray;
+  overflow:hidden;
+}
+body footer .contact{
+  margin-left:100px;
+  float:left;
+}
+body footer p{
+  font-weight:bold;
+}
+body footer img{
+  width:500px;
+}
+body footer .position{
+  margin-left:200px;
+  float:left;
+}
